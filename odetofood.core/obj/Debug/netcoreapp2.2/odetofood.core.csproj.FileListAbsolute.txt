@@ -1,0 +1,9 @@
+C:\Users\abish\OneDrive\Documents\Visual Studio 2017\Projects\WebApplication1\odetofood.core\bin\Debug\netcoreapp2.2\odetofood.core.deps.json
+C:\Users\abish\OneDrive\Documents\Visual Studio 2017\Projects\WebApplication1\odetofood.core\bin\Debug\netcoreapp2.2\odetofood.core.dll
+C:\Users\abish\OneDrive\Documents\Visual Studio 2017\Projects\WebApplication1\odetofood.core\bin\Debug\netcoreapp2.2\odetofood.core.pdb
+C:\Users\abish\OneDrive\Documents\Visual Studio 2017\Projects\WebApplication1\odetofood.core\obj\Debug\netcoreapp2.2\odetofood.core.csproj.CoreCompileInputs.cache
+C:\Users\abish\OneDrive\Documents\Visual Studio 2017\Projects\WebApplication1\odetofood.core\obj\Debug\netcoreapp2.2\odetofood.core.AssemblyInfoInputs.cache
+C:\Users\abish\OneDrive\Documents\Visual Studio 2017\Projects\WebApplication1\odetofood.core\obj\Debug\netcoreapp2.2\odetofood.core.AssemblyInfo.cs
+C:\Users\abish\OneDrive\Documents\Visual Studio 2017\Projects\WebApplication1\odetofood.core\obj\Debug\netcoreapp2.2\odetofood.core.dll
+C:\Users\abish\OneDrive\Documents\Visual Studio 2017\Projects\WebApplication1\odetofood.core\obj\Debug\netcoreapp2.2\odetofood.core.pdb
+C:\Users\abish\OneDrive\Documents\Visual Studio 2017\Projects\WebApplication1\odetofood.core\obj\Debug\netcoreapp2.2\odetofood.core.csprojAssemblyReference.cache
